@@ -1,4 +1,3 @@
-# hello-world
-此存储库用于练习GitHub Flow
+# hello-world  此存储库用于练习GitHub Flow
 edit1
 edit2
